@@ -1,0 +1,29 @@
+.bg-img{
+    height: 250px;
+    width: 250px;
+    background-image: url(https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/65725709c91402ab52b1c2b9_Best%207%2B%20Coding%20Languages%20for%20a%20SaaS%20Tech%20Stack%202023%20Guide.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+    height: fit-content;
+    width: 250px;
+    text-align: center;
+    margin-top: 50px;
+    box-shadow: 0 0 10px black;
+    padding-bottom: 10px    ;
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+}
+.card-items{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cards-container{
+    display: flex;
+    gap: 50px;
+}
